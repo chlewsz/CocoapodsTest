@@ -8,6 +8,7 @@
 
 #import "ViewController.h"
 #import "AFNetworking.h"
+#import "UIImageView+WebCache.h"
 
 @interface ViewController ()
 
@@ -20,6 +21,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     AFHTTPSessionManager *manager = [AFHTTPSessionManager manager];
+    
+    [[UIImageView alloc] sd_setImageWithURL:[NSURL URLWithString:@"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png"]];
 }
 
 

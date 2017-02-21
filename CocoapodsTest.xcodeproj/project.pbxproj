@@ -31,7 +31,7 @@
 		96820B891E5BC62A005F3DB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		96820B8B1E5BC62A005F3DB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		96820B9D1E5BCC13005F3DB4 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
-		96820B9F1E5BCC8E005F3DB4 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		96820B9F1E5BCC8E005F3DB4 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		96820BA11E5BCCED005F3DB4 /* Podfile.lock */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile.lock; sourceTree = "<group>"; };
 		CD5D032F72B9ADAB39FABA74 /* Pods-CocoapodsTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CocoapodsTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CocoapodsTest/Pods-CocoapodsTest.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
