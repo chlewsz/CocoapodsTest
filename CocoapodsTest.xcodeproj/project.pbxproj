@@ -12,6 +12,7 @@
 		96820B821E5BC62A005F3DB4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 96820B811E5BC62A005F3DB4 /* ViewController.m */; };
 		96820B871E5BC62A005F3DB4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96820B861E5BC62A005F3DB4 /* Assets.xcassets */; };
 		96820B8A1E5BC62A005F3DB4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96820B881E5BC62A005F3DB4 /* LaunchScreen.storyboard */; };
+		96820B9E1E5BCC13005F3DB4 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 96820B9D1E5BCC13005F3DB4 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		96820B861E5BC62A005F3DB4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		96820B891E5BC62A005F3DB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		96820B8B1E5BC62A005F3DB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96820B9D1E5BCC13005F3DB4 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		96820B6E1E5BC62A005F3DB4 = {
 			isa = PBXGroup;
 			children = (
+				96820B9D1E5BCC13005F3DB4 /* .gitignore */,
 				96820B791E5BC62A005F3DB4 /* CocoapodsTest */,
 				96820B781E5BC62A005F3DB4 /* Products */,
 			);
@@ -135,6 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96820B8A1E5BC62A005F3DB4 /* LaunchScreen.storyboard in Resources */,
+				96820B9E1E5BCC13005F3DB4 /* .gitignore in Resources */,
 				96820B871E5BC62A005F3DB4 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -295,6 +299,7 @@
 				96820B901E5BC62A005F3DB4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
